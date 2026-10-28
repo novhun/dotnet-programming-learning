@@ -1,0 +1,35 @@
+<Solution>
+  <Folder Name="/01-csharp-fundamentals/">
+    <Project Path="01-csharp-fundamentals/CSharpFundamentals.csproj" />
+  </Folder>
+  <Folder Name="/02-oop-deep-dive/">
+    <Project Path="02-oop-deep-dive/OopDeepDive.csproj" />
+  </Folder>
+  <Folder Name="/03-generics-collections-linq/">
+    <Project Path="03-generics-collections-linq/GenericsAndLinq.csproj" />
+  </Folder>
+  <Folder Name="/04-modern-csharp-features/">
+    <Project Path="04-modern-csharp-features/ModernCSharp.csproj" />
+  </Folder>
+  <Folder Name="/05-async-and-threading/">
+    <Project Path="05-async-and-threading/AsyncThreading.csproj" />
+  </Folder>
+  <Folder Name="/06-memory-and-performance/">
+    <Project Path="06-memory-and-performance/MemoryAndPerformance.csproj" />
+  </Folder>
+  <Folder Name="/07-di-configuration-logging/">
+    <Project Path="07-di-configuration-logging/DiAndConfiguration.csproj" />
+  </Folder>
+  <Folder Name="/08-entity-framework-core/">
+    <Project Path="08-entity-framework-core/EfCoreMastery.csproj" />
+  </Folder>
+  <Folder Name="/09-aspnetcore-webapi/">
+    <Project Path="09-aspnetcore-webapi/AspNetCoreWebApi.csproj" />
+  </Folder>
+  <Folder Name="/10-clean-architecture-patterns/">
+    <Project Path="10-clean-architecture-patterns/CleanArchitectureDemo.csproj" />
+  </Folder>
+  <Folder Name="/11-testing-and-quality/">
+    <Project Path="11-testing-and-quality/TestingAndQuality.csproj" />
+  </Folder>
+</Solution>
